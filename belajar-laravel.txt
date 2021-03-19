@@ -1,0 +1,6 @@
+Target Belajar Laravel
+1. Install Laravel
+2. Mengenal Routing
+3. Mengenal Controller
+4. Route Dinamis
+5. Templateing Blade
