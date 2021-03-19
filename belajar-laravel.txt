@@ -4,3 +4,9 @@ Target Belajar Laravel
 3. Mengenal Controller
 4. Route Dinamis
 5. Templateing Blade
+5.1 Istirahat
+6. Database
+7. Integrasi CSS
+8. Sistem CRUD
+9. Migrasi
+10. File Status
