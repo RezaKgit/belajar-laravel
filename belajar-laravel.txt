@@ -10,3 +10,4 @@ Target Belajar Laravel
 9. Migrasi
 10. File Status
 11. Masuk studi kasus
+12. Belajar GitHub
