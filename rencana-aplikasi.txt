@@ -4,7 +4,6 @@ rencana project aplikasi yang akan di buat :
     ^ eloquent
     ^ login (midleware)
   * target mahasiswa
-2. App bitcoin
 3. App game
    ^ animasi
 4. App sosmed
